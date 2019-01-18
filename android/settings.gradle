@@ -1,0 +1,3 @@
+rootProject.name = 'sassyApp'
+
+include ':app'
